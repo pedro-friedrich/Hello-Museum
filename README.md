@@ -1,2 +1,2 @@
-# Escape-Museum
-Unity Project of the mobile game "Escape Museum"
+# Hello-Museum"
+Unity Project of the mobile game "Escape Museum!"
