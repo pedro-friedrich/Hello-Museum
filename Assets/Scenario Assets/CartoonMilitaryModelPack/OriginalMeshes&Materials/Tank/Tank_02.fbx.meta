@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: b2b172466000c434bad262ccfe970776
+timeCreated: 1486845253
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Tank_02_Body
+    100004: Tank_02_Chain
+    100006: Tank_02_Chain02
+    100008: Tank_02_MainGun
+    100010: Tank_02_MainGunBody
+    100012: Tank_02_UpperBody
+    100014: Tank_02_UpperBody 1
+    100016: Tank_02_Wheel01
+    100018: Tank_02_Wheel010
+    100020: Tank_02_Wheel02
+    100022: Tank_02_Wheel03
+    100024: Tank_02_Wheel04
+    100026: Tank_02_Wheel05
+    100028: Tank_02_Wheel06
+    100030: Tank_02_Wheel07
+    100032: Tank_02_Wheel08
+    100034: Tank_02_Wheel09
+    100036: Tank_02_Wheel11
+    100038: Tank_02_Wheel12
+    100040: Tank_02_Wheel13
+    100042: Tank_02_Wheel14
+    100044: Tank_02_Wheels
+    100046: Tank_02_MainGunPart
+    400000: //RootNode
+    400002: Tank_02_Body
+    400004: Tank_02_Chain
+    400006: Tank_02_Chain02
+    400008: Tank_02_MainGun
+    400010: Tank_02_MainGunBody
+    400012: Tank_02_UpperBody
+    400014: Tank_02_UpperBody 1
+    400016: Tank_02_Wheel01
+    400018: Tank_02_Wheel010
+    400020: Tank_02_Wheel02
+    400022: Tank_02_Wheel03
+    400024: Tank_02_Wheel04
+    400026: Tank_02_Wheel05
+    400028: Tank_02_Wheel06
+    400030: Tank_02_Wheel07
+    400032: Tank_02_Wheel08
+    400034: Tank_02_Wheel09
+    400036: Tank_02_Wheel11
+    400038: Tank_02_Wheel12
+    400040: Tank_02_Wheel13
+    400042: Tank_02_Wheel14
+    400044: Tank_02_Wheels
+    400046: Tank_02_MainGunPart
+    2300000: Tank_02_Body
+    2300002: Tank_02_Chain
+    2300004: Tank_02_Chain02
+    2300006: Tank_02_MainGun
+    2300008: Tank_02_MainGunBody
+    2300010: Tank_02_UpperBody 1
+    2300012: Tank_02_Wheel01
+    2300014: Tank_02_Wheel010
+    2300016: Tank_02_Wheel02
+    2300018: Tank_02_Wheel03
+    2300020: Tank_02_Wheel04
+    2300022: Tank_02_Wheel05
+    2300024: Tank_02_Wheel06
+    2300026: Tank_02_Wheel07
+    2300028: Tank_02_Wheel08
+    2300030: Tank_02_Wheel09
+    2300032: Tank_02_Wheel11
+    2300034: Tank_02_Wheel12
+    2300036: Tank_02_Wheel13
+    2300038: Tank_02_Wheel14
+    3300000: Tank_02_Body
+    3300002: Tank_02_Chain
+    3300004: Tank_02_Chain02
+    3300006: Tank_02_MainGun
+    3300008: Tank_02_MainGunBody
+    3300010: Tank_02_UpperBody 1
+    3300012: Tank_02_Wheel01
+    3300014: Tank_02_Wheel010
+    3300016: Tank_02_Wheel02
+    3300018: Tank_02_Wheel03
+    3300020: Tank_02_Wheel04
+    3300022: Tank_02_Wheel05
+    3300024: Tank_02_Wheel06
+    3300026: Tank_02_Wheel07
+    3300028: Tank_02_Wheel08
+    3300030: Tank_02_Wheel09
+    3300032: Tank_02_Wheel11
+    3300034: Tank_02_Wheel12
+    3300036: Tank_02_Wheel13
+    3300038: Tank_02_Wheel14
+    4300000: Tank_02_Chain
+    4300002: Tank_02_Chain02
+    4300004: Tank_02_Wheel01
+    4300006: Tank_02_Wheel02
+    4300008: Tank_02_Wheel03
+    4300010: Tank_02_Wheel04
+    4300012: Tank_02_Wheel05
+    4300014: Tank_02_Wheel06
+    4300016: Tank_02_Wheel07
+    4300018: Tank_02_Wheel08
+    4300020: Tank_02_Wheel09
+    4300022: Tank_02_Wheel010
+    4300024: Tank_02_Wheel11
+    4300026: Tank_02_Wheel12
+    4300028: Tank_02_Wheel13
+    4300030: Tank_02_Wheel14
+    4300032: Tank_02_MainGun
+    4300034: Tank_02_MainGunBody
+    4300036: Tank_02_UpperBody
+    4300038: Tank_02_Body
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/Tank/Tank_02.fbx
+  uploadId: 250008

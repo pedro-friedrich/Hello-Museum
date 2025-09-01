@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f8dd59c2655b4bb4bbafb7d76d79fd88
+timeCreated: 1528341975
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/Prefebs/CustomPart_Prefebs/Turrets_Prefebs/Turret_12_Prefeb.prefab
+  uploadId: 250008

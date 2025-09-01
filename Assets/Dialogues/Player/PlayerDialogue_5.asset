@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e453bef00ae50c6479761df934291299, type: 3}
+  m_Name: PlayerDialogue_5
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  state: 5
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Recruta Martins
+    profile: {fileID: 21300000, guid: 0f02e02f477b5c14283d5abe1939923a, type: 3}
+    sentence:
+      portuguese: "O port\xE3o <color=purple>has no power</color> (n\xE3o tem energia),
+        tu n\xE3o vai conseguir abrir."
+  - actorName: Jogador
+    profile: {fileID: 21300000, guid: b1b6712a82eedaf4182a0ef7adf54c2c, type: 3}
+    sentence:
+      portuguese: "Ent\xE3o o que eu fa\xE7o?"
+  - actorName: Recruta Martins
+    profile: {fileID: 21300000, guid: 0f02e02f477b5c14283d5abe1939923a, type: 3}
+    sentence:
+      portuguese: "Ele precisa de tr\xEAs fus\xEDveis pra abrir."
+  - actorName: Recruta Martins
+    profile: {fileID: 21300000, guid: 0f02e02f477b5c14283d5abe1939923a, type: 3}
+    sentence:
+      portuguese: "<color=purple>for your luck</color> (para a sua sorte) conhe\xE7o
+        alguem que pode saber onde eles est\xE3o"

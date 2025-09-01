@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 234c45f0cfb784891983eb5efe4a0ef5
+timeCreated: 1489449728
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/Prefebs/Building_Prefebs/ControlTower_Prefeb.prefab
+  uploadId: 250008

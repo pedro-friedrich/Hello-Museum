@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 57cae8c3f8d754a6ea5b899daac7aa76
+timeCreated: 1489391352
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MLRS_01_Body
+    100004: MLRS_01_LeftCaterPillar
+    100006: MLRS_01_LeftWheel01
+    100008: MLRS_01_LeftWheel02
+    100010: MLRS_01_LeftWheel03
+    100012: MLRS_01_LeftWheel04
+    100014: MLRS_01_LeftWheel05
+    100016: MLRS_01_LeftWheel06
+    100018: MLRS_01_LeftWheel07
+    100020: MLRS_01_LeftWheel08
+    100022: MLRS_01_LeftWheels
+    100024: MLRS_01_MissileFirePort
+    100026: MLRS_01_MissileFirePortPanel
+    100028: MLRS_01_MissilePort
+    100030: MLRS_01_RightCaterpillar
+    100032: MLRS_01_RightWheel01
+    100034: MLRS_01_RightWheel02
+    100036: MLRS_01_RightWheel03
+    100038: MLRS_01_RightWheel04
+    100040: MLRS_01_RightWheel05
+    100042: MLRS_01_RightWheel06
+    100044: MLRS_01_RightWheel07
+    100046: MLRS_01_RightWheel08
+    100048: MLRS_01_RightWheels
+    100050: MLRS_01_Wheels
+    400000: //RootNode
+    400002: MLRS_01_Body
+    400004: MLRS_01_LeftCaterPillar
+    400006: MLRS_01_LeftWheel01
+    400008: MLRS_01_LeftWheel02
+    400010: MLRS_01_LeftWheel03
+    400012: MLRS_01_LeftWheel04
+    400014: MLRS_01_LeftWheel05
+    400016: MLRS_01_LeftWheel06
+    400018: MLRS_01_LeftWheel07
+    400020: MLRS_01_LeftWheel08
+    400022: MLRS_01_LeftWheels
+    400024: MLRS_01_MissileFirePort
+    400026: MLRS_01_MissileFirePortPanel
+    400028: MLRS_01_MissilePort
+    400030: MLRS_01_RightCaterpillar
+    400032: MLRS_01_RightWheel01
+    400034: MLRS_01_RightWheel02
+    400036: MLRS_01_RightWheel03
+    400038: MLRS_01_RightWheel04
+    400040: MLRS_01_RightWheel05
+    400042: MLRS_01_RightWheel06
+    400044: MLRS_01_RightWheel07
+    400046: MLRS_01_RightWheel08
+    400048: MLRS_01_RightWheels
+    400050: MLRS_01_Wheels
+    2300000: MLRS_01_Body
+    2300002: MLRS_01_LeftCaterPillar
+    2300004: MLRS_01_LeftWheel01
+    2300006: MLRS_01_LeftWheel02
+    2300008: MLRS_01_LeftWheel03
+    2300010: MLRS_01_LeftWheel04
+    2300012: MLRS_01_LeftWheel05
+    2300014: MLRS_01_LeftWheel06
+    2300016: MLRS_01_LeftWheel07
+    2300018: MLRS_01_LeftWheel08
+    2300020: MLRS_01_MissileFirePort
+    2300022: MLRS_01_MissileFirePortPanel
+    2300024: MLRS_01_RightCaterpillar
+    2300026: MLRS_01_RightWheel01
+    2300028: MLRS_01_RightWheel02
+    2300030: MLRS_01_RightWheel03
+    2300032: MLRS_01_RightWheel04
+    2300034: MLRS_01_RightWheel05
+    2300036: MLRS_01_RightWheel06
+    2300038: MLRS_01_RightWheel07
+    2300040: MLRS_01_RightWheel08
+    3300000: MLRS_01_Body
+    3300002: MLRS_01_LeftCaterPillar
+    3300004: MLRS_01_LeftWheel01
+    3300006: MLRS_01_LeftWheel02
+    3300008: MLRS_01_LeftWheel03
+    3300010: MLRS_01_LeftWheel04
+    3300012: MLRS_01_LeftWheel05
+    3300014: MLRS_01_LeftWheel06
+    3300016: MLRS_01_LeftWheel07
+    3300018: MLRS_01_LeftWheel08
+    3300020: MLRS_01_MissileFirePort
+    3300022: MLRS_01_MissileFirePortPanel
+    3300024: MLRS_01_RightCaterpillar
+    3300026: MLRS_01_RightWheel01
+    3300028: MLRS_01_RightWheel02
+    3300030: MLRS_01_RightWheel03
+    3300032: MLRS_01_RightWheel04
+    3300034: MLRS_01_RightWheel05
+    3300036: MLRS_01_RightWheel06
+    3300038: MLRS_01_RightWheel07
+    3300040: MLRS_01_RightWheel08
+    4300000: MLRS_01_Body
+    4300002: MLRS_01_RightCaterpillar
+    4300004: MLRS_01_RightWheel01
+    4300006: MLRS_01_RightWheel02
+    4300008: MLRS_01_RightWheel03
+    4300010: MLRS_01_RightWheel04
+    4300012: MLRS_01_RightWheel05
+    4300014: MLRS_01_RightWheel06
+    4300016: MLRS_01_RightWheel07
+    4300018: MLRS_01_RightWheel08
+    4300020: MLRS_01_LeftCaterPillar
+    4300022: MLRS_01_LeftWheel01
+    4300024: MLRS_01_LeftWheel02
+    4300026: MLRS_01_LeftWheel03
+    4300028: MLRS_01_LeftWheel04
+    4300030: MLRS_01_LeftWheel05
+    4300032: MLRS_01_LeftWheel06
+    4300034: MLRS_01_LeftWheel07
+    4300036: MLRS_01_LeftWheel08
+    4300038: MLRS_01_MissileFirePortPanel
+    4300040: MLRS_01_MissileFirePort
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/MLRS/MLRS_01.fbx
+  uploadId: 250008

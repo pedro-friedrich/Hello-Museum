@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76a0b2ba49a6e4771b74ead763a113ed
+timeCreated: 1486850800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/Building/Materials/MilitaryBase_Texture.mat
+  uploadId: 250008

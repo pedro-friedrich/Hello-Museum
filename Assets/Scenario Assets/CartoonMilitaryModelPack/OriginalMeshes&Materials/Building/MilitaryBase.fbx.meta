@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: c0ff423a11c3b459e9755ea58dcc82e3
+timeCreated: 1486850821
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Antena
+    100002: Antena 1
+    100004: Antena10
+    100006: Antena11
+    100008: Antena12
+    100010: Antena2
+    100012: Antena3
+    100014: Antena4
+    100016: Antena5
+    100018: Antena6
+    100020: Antena7
+    100022: Antena8
+    100024: Antena9
+    100026: //RootNode
+    100028: MilitaryBase_Body
+    400000: Antena
+    400002: Antena 1
+    400004: Antena10
+    400006: Antena11
+    400008: Antena12
+    400010: Antena2
+    400012: Antena3
+    400014: Antena4
+    400016: Antena5
+    400018: Antena6
+    400020: Antena7
+    400022: Antena8
+    400024: Antena9
+    400026: //RootNode
+    400028: MilitaryBase_Body
+    2300000: Antena 1
+    2300002: Antena10
+    2300004: Antena11
+    2300006: Antena12
+    2300008: Antena2
+    2300010: Antena3
+    2300012: Antena4
+    2300014: Antena5
+    2300016: Antena6
+    2300018: Antena7
+    2300020: Antena8
+    2300022: Antena9
+    2300024: MilitaryBase_Body
+    3300000: Antena 1
+    3300002: Antena10
+    3300004: Antena11
+    3300006: Antena12
+    3300008: Antena2
+    3300010: Antena3
+    3300012: Antena4
+    3300014: Antena5
+    3300016: Antena6
+    3300018: Antena7
+    3300020: Antena8
+    3300022: Antena9
+    3300024: MilitaryBase_Body
+    4300000: MilitaryBase_Body
+    4300002: Antena
+    4300004: Antena2
+    4300006: Antena3
+    4300008: Antena4
+    4300010: Antena5
+    4300012: Antena6
+    4300014: Antena7
+    4300016: Antena8
+    4300018: Antena9
+    4300020: Antena10
+    4300022: Antena11
+    4300024: Antena12
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/Building/MilitaryBase.fbx
+  uploadId: 250008

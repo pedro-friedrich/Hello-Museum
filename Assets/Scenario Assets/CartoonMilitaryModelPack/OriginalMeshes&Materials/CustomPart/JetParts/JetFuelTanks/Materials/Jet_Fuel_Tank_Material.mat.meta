@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12b06990579aa4ef8b6dbd16ecc201e5
+timeCreated: 1486845684
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/CustomPart/JetParts/JetFuelTanks/Materials/Jet_Fuel_Tank_Material.mat
+  uploadId: 250008

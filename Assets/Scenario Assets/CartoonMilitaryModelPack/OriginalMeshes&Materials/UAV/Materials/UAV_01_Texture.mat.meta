@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a79ac9c3d64884f1e90110fb2c9b3130
+timeCreated: 1486845543
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/UAV/Materials/UAV_01_Texture.mat
+  uploadId: 250008

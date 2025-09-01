@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7daeaf22c451c0e4ca44261656b6264c
+timeCreated: 1528335360
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/WarShip/BattleShip/Materials/BattleShip_01_Texture.mat
+  uploadId: 250008

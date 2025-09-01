@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f30c6f5e4f5e74cd4824427206974cdc
+timeCreated: 1486848683
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/CustomPart/Missiles/CruiseMissile/Materials/pMissileBody.mat
+  uploadId: 250008

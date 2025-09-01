@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e453bef00ae50c6479761df934291299, type: 3}
+  m_Name: PlayerDialogue_9
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  state: 13
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Jogador
+    profile: {fileID: 21300000, guid: b1b6712a82eedaf4182a0ef7adf54c2c, type: 3}
+    sentence:
+      portuguese: "Aqui diz <color=purple>behind the buried tank</color> (Atr\xE1s
+        do tanque enterrado)."
+  - actorName: Tenente Souza
+    profile: {fileID: 21300000, guid: 20687c18a80e1804c8ba884ed448a87a, type: 3}
+    sentence:
+      portuguese: "Isso fica na \xE1rea de fora, vou abrir as portas para voc\xEA
+        c\xE2mbio."
+  - actorName: Jogador
+    profile: {fileID: 21300000, guid: b1b6712a82eedaf4182a0ef7adf54c2c, type: 3}
+    sentence:
+      portuguese: Bom... Muito obrigado.

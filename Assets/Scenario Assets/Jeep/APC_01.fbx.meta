@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 0fd1598056c314eb78a26393214164cb
+timeCreated: 1486841625
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: APC_01_Antena1
+    100004: APC_01_Antena2
+    100006: APC_01_Antena3
+    100008: APC_01_Antena4
+    100010: APC_01_Antenas
+    100012: APC_01_Body
+    100014: APC_01_Body 1
+    100016: APC_01_Wheel01
+    100018: APC_01_Wheel02
+    100020: APC_01_Wheel03
+    100022: APC_01_Wheel04
+    100024: APC_01_Wheels
+    400000: //RootNode
+    400002: APC_01_Antena1
+    400004: APC_01_Antena2
+    400006: APC_01_Antena3
+    400008: APC_01_Antena4
+    400010: APC_01_Antenas
+    400012: APC_01_Body
+    400014: APC_01_Body 1
+    400016: APC_01_Wheel01
+    400018: APC_01_Wheel02
+    400020: APC_01_Wheel03
+    400022: APC_01_Wheel04
+    400024: APC_01_Wheels
+    2300000: APC_01_Antena1
+    2300002: APC_01_Antena2
+    2300004: APC_01_Antena3
+    2300006: APC_01_Antena4
+    2300008: APC_01_Body 1
+    2300010: APC_01_Wheel01
+    2300012: APC_01_Wheel02
+    2300014: APC_01_Wheel03
+    2300016: APC_01_Wheel04
+    3300000: APC_01_Antena1
+    3300002: APC_01_Antena2
+    3300004: APC_01_Antena3
+    3300006: APC_01_Antena4
+    3300008: APC_01_Body 1
+    3300010: APC_01_Wheel01
+    3300012: APC_01_Wheel02
+    3300014: APC_01_Wheel03
+    3300016: APC_01_Wheel04
+    4300000: APC_01_Antena1
+    4300002: APC_01_Antena2
+    4300004: APC_01_Antena3
+    4300006: APC_01_Antena4
+    4300008: APC_01_Body
+    4300010: APC_01_Wheel01
+    4300012: APC_01_Wheel02
+    4300014: APC_01_Wheel03
+    4300016: APC_01_Wheel04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/APC/APC_01.fbx
+  uploadId: 250008

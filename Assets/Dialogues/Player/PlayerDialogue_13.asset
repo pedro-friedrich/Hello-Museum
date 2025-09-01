@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e453bef00ae50c6479761df934291299, type: 3}
+  m_Name: PlayerDialogue_13
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  state: 21
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Jogador
+    profile: {fileID: 21300000, guid: b1b6712a82eedaf4182a0ef7adf54c2c, type: 3}
+    sentence:
+      portuguese: "Coronel Guimar\xE3es?"
+  - actorName: "Coronel Guimar\xE3es"
+    profile: {fileID: 21300000, guid: e78960b0563490641b1414b73a1b0517, type: 3}
+    sentence:
+      portuguese: "\xC9 Teodoro Guimar\xE3es tch\xEA... N\xE3o sou mais coronel."
+  - actorName: Jogador
+    profile: {fileID: 21300000, guid: b1b6712a82eedaf4182a0ef7adf54c2c, type: 3}
+    sentence:
+      portuguese: "<color=purple>Sorry</color> (Desculpa) mas eu precisava de um
+        fus\xEDvel para ir embora, voc\xEA pode me ajudar?"
+  - actorName: "Coronel Guimar\xE3es"
+    profile: {fileID: 21300000, guid: e78960b0563490641b1414b73a1b0517, type: 3}
+    sentence:
+      portuguese: "Porque eu deveria? J\xE1 to velho e cansado, s\xF3 queria conseguir
+        dirigir meu tanque de novo."
+  - actorName: Jogador
+    profile: {fileID: 21300000, guid: b1b6712a82eedaf4182a0ef7adf54c2c, type: 3}
+    sentence:
+      portuguese: "Se voc\xEA me ensinar a gente pode dar uma voltinha nele. Sempre
+        quis dirigir um tanque!"

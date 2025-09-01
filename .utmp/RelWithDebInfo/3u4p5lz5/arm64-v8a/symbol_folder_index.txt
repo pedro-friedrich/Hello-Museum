@@ -1,0 +1,1 @@
+C:\Users\pedro\Unity\jogo_foda_pi\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\3u4p5lz5\obj\arm64-v8a

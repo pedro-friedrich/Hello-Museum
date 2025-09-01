@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 647c0753ee05a4d9ca63c51034977bfa
+timeCreated: 1489481582
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/Prefebs/CustomPart_Prefebs/JetParts_Prefebs/LandingGear_Back_Prefeb.prefab
+  uploadId: 250008

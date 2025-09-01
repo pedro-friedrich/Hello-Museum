@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2691827723791038610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2534768624466992963}
+  - component: {fileID: 2798200230684889192}
+  m_Layer: 0
+  m_Name: Minigame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2534768624466992963
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2691827723791038610}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.35, y: -0.81, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2798200230684889192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2691827723791038610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e520005701539f44ebf944d8d6d3ecc7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slots:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  itemPrefabs:
+  - {fileID: 6492371599095863303, guid: a8861d7245529ee41bf0f1e143ff712e, type: 3}
+  - {fileID: 6713245616043297778, guid: 11a14c6c2121c7e4d8766c81d45554c6, type: 3}
+  - {fileID: 6637040135866432834, guid: 11634cdb35fa44e458251af71d94df33, type: 3}
+  - {fileID: 5517758849993522485, guid: fa73096b5ff128e4da018e0ff4e9fe12, type: 3}
+  - {fileID: 3078789465370680353, guid: a093a08ca5455b94ba00803513894aa8, type: 3}
+  - {fileID: 1585406035844171134, guid: 24998202da40c254886597b65f56983f, type: 3}
+  - {fileID: 6353377904460970600, guid: 766c2e6764a0c8542a7fe29b1fc65261, type: 3}
+  - {fileID: 3239030905869048735, guid: 1c2e118fa2d88e247bd72f88a0a128b8, type: 3}
+  - {fileID: 8083397630364670122, guid: 3b213675ed30ef34d808da411f8eee84, type: 3}
+  - {fileID: 6243458017025379546, guid: 63b93096507004a499158d96529c0a91, type: 3}
+  menuPanel: {fileID: 0}
+  endgamePanel: {fileID: 0}
+  endgameText: {fileID: 0}
+  itemNameText: {fileID: 0}
+  livesObj: {fileID: 0}
+  lives: 3

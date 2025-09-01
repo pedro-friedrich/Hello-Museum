@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47fc85326e071424d852735168bcd9e9
+timeCreated: 1489450810
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/Prefebs/Building_Prefebs/VehicleHangar_01_Prefeb.prefab
+  uploadId: 250008

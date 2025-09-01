@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: afa18447f06a84c3aa60c324faa1850b
+timeCreated: 1489383452
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SelfPropelledArtillery_02_CaterPillar
+    100004: SelfPropelledArtillery_02_LeftWheel01
+    100006: SelfPropelledArtillery_02_LeftWheel02
+    100008: SelfPropelledArtillery_02_LeftWheel03
+    100010: SelfPropelledArtillery_02_LeftWheel04
+    100012: SelfPropelledArtillery_02_LeftWheel05
+    100014: SelfPropelledArtillery_02_LeftWheel06
+    100016: SelfPropelledArtillery_02_LeftWheel07
+    100018: SelfPropelledArtillery_02_LeftWheel08
+    100020: SelfPropelledArtillery_02_LeftWheels
+    100022: SelfPropelledArtillery_02_LowerBody
+    100024: SelfPropelledArtillery_02_MainGun
+    100026: SelfPropelledArtillery_02_MainGunBody
+    100028: SelfPropelledArtillery_02_MainGuns
+    100030: SelfPropelledArtillery_02_RightCaterPillar
+    100032: SelfPropelledArtillery_02_RightWheel01
+    100034: SelfPropelledArtillery_02_RightWheel02
+    100036: SelfPropelledArtillery_02_RightWheel03
+    100038: SelfPropelledArtillery_02_RightWheel04
+    100040: SelfPropelledArtillery_02_RightWheel05
+    100042: SelfPropelledArtillery_02_RightWheel06
+    100044: SelfPropelledArtillery_02_RightWheel07
+    100046: SelfPropelledArtillery_02_RightWheel08
+    100048: SelfPropelledArtillery_02_RightWheels
+    100050: SelfPropelledArtillery_02_UpperBody
+    100052: SelfPropelledArtillery_02_Wheels
+    400000: //RootNode
+    400002: SelfPropelledArtillery_02_CaterPillar
+    400004: SelfPropelledArtillery_02_LeftWheel01
+    400006: SelfPropelledArtillery_02_LeftWheel02
+    400008: SelfPropelledArtillery_02_LeftWheel03
+    400010: SelfPropelledArtillery_02_LeftWheel04
+    400012: SelfPropelledArtillery_02_LeftWheel05
+    400014: SelfPropelledArtillery_02_LeftWheel06
+    400016: SelfPropelledArtillery_02_LeftWheel07
+    400018: SelfPropelledArtillery_02_LeftWheel08
+    400020: SelfPropelledArtillery_02_LeftWheels
+    400022: SelfPropelledArtillery_02_LowerBody
+    400024: SelfPropelledArtillery_02_MainGun
+    400026: SelfPropelledArtillery_02_MainGunBody
+    400028: SelfPropelledArtillery_02_MainGuns
+    400030: SelfPropelledArtillery_02_RightCaterPillar
+    400032: SelfPropelledArtillery_02_RightWheel01
+    400034: SelfPropelledArtillery_02_RightWheel02
+    400036: SelfPropelledArtillery_02_RightWheel03
+    400038: SelfPropelledArtillery_02_RightWheel04
+    400040: SelfPropelledArtillery_02_RightWheel05
+    400042: SelfPropelledArtillery_02_RightWheel06
+    400044: SelfPropelledArtillery_02_RightWheel07
+    400046: SelfPropelledArtillery_02_RightWheel08
+    400048: SelfPropelledArtillery_02_RightWheels
+    400050: SelfPropelledArtillery_02_UpperBody
+    400052: SelfPropelledArtillery_02_Wheels
+    2300000: SelfPropelledArtillery_02_CaterPillar
+    2300002: SelfPropelledArtillery_02_LeftWheel01
+    2300004: SelfPropelledArtillery_02_LeftWheel02
+    2300006: SelfPropelledArtillery_02_LeftWheel03
+    2300008: SelfPropelledArtillery_02_LeftWheel04
+    2300010: SelfPropelledArtillery_02_LeftWheel05
+    2300012: SelfPropelledArtillery_02_LeftWheel06
+    2300014: SelfPropelledArtillery_02_LeftWheel07
+    2300016: SelfPropelledArtillery_02_LeftWheel08
+    2300018: SelfPropelledArtillery_02_LowerBody
+    2300020: SelfPropelledArtillery_02_MainGun
+    2300022: SelfPropelledArtillery_02_MainGunBody
+    2300024: SelfPropelledArtillery_02_RightCaterPillar
+    2300026: SelfPropelledArtillery_02_RightWheel01
+    2300028: SelfPropelledArtillery_02_RightWheel02
+    2300030: SelfPropelledArtillery_02_RightWheel03
+    2300032: SelfPropelledArtillery_02_RightWheel04
+    2300034: SelfPropelledArtillery_02_RightWheel05
+    2300036: SelfPropelledArtillery_02_RightWheel06
+    2300038: SelfPropelledArtillery_02_RightWheel07
+    2300040: SelfPropelledArtillery_02_RightWheel08
+    2300042: SelfPropelledArtillery_02_UpperBody
+    3300000: SelfPropelledArtillery_02_CaterPillar
+    3300002: SelfPropelledArtillery_02_LeftWheel01
+    3300004: SelfPropelledArtillery_02_LeftWheel02
+    3300006: SelfPropelledArtillery_02_LeftWheel03
+    3300008: SelfPropelledArtillery_02_LeftWheel04
+    3300010: SelfPropelledArtillery_02_LeftWheel05
+    3300012: SelfPropelledArtillery_02_LeftWheel06
+    3300014: SelfPropelledArtillery_02_LeftWheel07
+    3300016: SelfPropelledArtillery_02_LeftWheel08
+    3300018: SelfPropelledArtillery_02_LowerBody
+    3300020: SelfPropelledArtillery_02_MainGun
+    3300022: SelfPropelledArtillery_02_MainGunBody
+    3300024: SelfPropelledArtillery_02_RightCaterPillar
+    3300026: SelfPropelledArtillery_02_RightWheel01
+    3300028: SelfPropelledArtillery_02_RightWheel02
+    3300030: SelfPropelledArtillery_02_RightWheel03
+    3300032: SelfPropelledArtillery_02_RightWheel04
+    3300034: SelfPropelledArtillery_02_RightWheel05
+    3300036: SelfPropelledArtillery_02_RightWheel06
+    3300038: SelfPropelledArtillery_02_RightWheel07
+    3300040: SelfPropelledArtillery_02_RightWheel08
+    3300042: SelfPropelledArtillery_02_UpperBody
+    4300000: SelfPropelledArtillery_02_UpperBody
+    4300002: SelfPropelledArtillery_02_LowerBody
+    4300004: SelfPropelledArtillery_02_MainGunBody
+    4300006: SelfPropelledArtillery_02_MainGun
+    4300008: SelfPropelledArtillery_02_LeftWheel01
+    4300010: SelfPropelledArtillery_02_LeftWheel02
+    4300012: SelfPropelledArtillery_02_LeftWheel03
+    4300014: SelfPropelledArtillery_02_LeftWheel04
+    4300016: SelfPropelledArtillery_02_LeftWheel05
+    4300018: SelfPropelledArtillery_02_LeftWheel06
+    4300020: SelfPropelledArtillery_02_LeftWheel07
+    4300022: SelfPropelledArtillery_02_LeftWheel08
+    4300024: SelfPropelledArtillery_02_CaterPillar
+    4300026: SelfPropelledArtillery_02_RightCaterPillar
+    4300028: SelfPropelledArtillery_02_RightWheel01
+    4300030: SelfPropelledArtillery_02_RightWheel02
+    4300032: SelfPropelledArtillery_02_RightWheel03
+    4300034: SelfPropelledArtillery_02_RightWheel04
+    4300036: SelfPropelledArtillery_02_RightWheel05
+    4300038: SelfPropelledArtillery_02_RightWheel06
+    4300040: SelfPropelledArtillery_02_RightWheel07
+    4300042: SelfPropelledArtillery_02_RightWheel08
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/SelfPropelledArtillery/SelfPropelledArtillery_02.fbx
+  uploadId: 250008

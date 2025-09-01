@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fc9505d088e64305b1ff6f5ab1518ae
+timeCreated: 1489449429
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/Prefebs/APC_Prefebs/APC_02_Prefeb.prefab
+  uploadId: 250008

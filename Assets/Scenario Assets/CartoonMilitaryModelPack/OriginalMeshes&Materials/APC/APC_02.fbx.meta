@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 899617faa4cbc43d890efddae457601a
+timeCreated: 1486841645
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: APC_02_Body
+    100004: APC_02_Body 1
+    100006: APC_02_MainGun1
+    100008: APC_02_Oil
+    100010: APC_02_Oil_prop
+    100012: APC_02_Oils
+    100014: APC_02_Parts
+    100016: APC_02_UpperBody2
+    100018: APC_02_UpperBody3
+    100020: APC_02_Wheel01
+    100022: APC_02_Wheel02
+    100024: APC_02_Wheel03
+    100026: APC_02_Wheel04
+    100028: APC_02_Wheel05
+    100030: APC_02_Wheel06
+    100032: APC_02_Wheel07
+    100034: APC_02_Wheel08
+    100036: APC_02_Wheels
+    100038: APC_02pBarrelBody
+    400000: //RootNode
+    400002: APC_02_Body
+    400004: APC_02_Body 1
+    400006: APC_02_MainGun1
+    400008: APC_02_Oil
+    400010: APC_02_Oil_prop
+    400012: APC_02_Oils
+    400014: APC_02_Parts
+    400016: APC_02_UpperBody2
+    400018: APC_02_UpperBody3
+    400020: APC_02_Wheel01
+    400022: APC_02_Wheel02
+    400024: APC_02_Wheel03
+    400026: APC_02_Wheel04
+    400028: APC_02_Wheel05
+    400030: APC_02_Wheel06
+    400032: APC_02_Wheel07
+    400034: APC_02_Wheel08
+    400036: APC_02_Wheels
+    400038: APC_02pBarrelBody
+    2300000: APC_02_Body 1
+    2300002: APC_02_MainGun1
+    2300004: APC_02_Oil
+    2300006: APC_02_Oil_prop
+    2300008: APC_02_UpperBody2
+    2300010: APC_02_Wheel01
+    2300012: APC_02_Wheel02
+    2300014: APC_02_Wheel03
+    2300016: APC_02_Wheel04
+    2300018: APC_02_Wheel05
+    2300020: APC_02_Wheel06
+    2300022: APC_02_Wheel07
+    2300024: APC_02_Wheel08
+    2300026: APC_02pBarrelBody
+    3300000: APC_02_Body 1
+    3300002: APC_02_MainGun1
+    3300004: APC_02_Oil
+    3300006: APC_02_Oil_prop
+    3300008: APC_02_UpperBody2
+    3300010: APC_02_Wheel01
+    3300012: APC_02_Wheel02
+    3300014: APC_02_Wheel03
+    3300016: APC_02_Wheel04
+    3300018: APC_02_Wheel05
+    3300020: APC_02_Wheel06
+    3300022: APC_02_Wheel07
+    3300024: APC_02_Wheel08
+    3300026: APC_02pBarrelBody
+    4300000: APC_02_Body
+    4300002: APC_02_Oil
+    4300004: APC_02_Oil_prop
+    4300006: APC_02_Wheel01
+    4300008: APC_02_Wheel02
+    4300010: APC_02_Wheel03
+    4300012: APC_02_Wheel04
+    4300014: APC_02_Wheel05
+    4300016: APC_02_Wheel06
+    4300018: APC_02_Wheel07
+    4300020: APC_02_Wheel08
+    4300022: APC_02_MainGun1
+    4300024: APC_02_UpperBody2
+    4300026: APC_02pBarrelBody
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/APC/APC_02.fbx
+  uploadId: 250008

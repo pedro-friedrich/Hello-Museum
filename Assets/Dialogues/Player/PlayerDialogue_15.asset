@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e453bef00ae50c6479761df934291299, type: 3}
+  m_Name: PlayerDialogue_15
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  state: 25
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Recruta Martins
+    profile: {fileID: 21300000, guid: 0f02e02f477b5c14283d5abe1939923a, type: 3}
+    sentence:
+      portuguese: "J\xE1 estava indo embora sem se despedir pi\xE1?"
+  - actorName: Jogador
+    profile: {fileID: 21300000, guid: b1b6712a82eedaf4182a0ef7adf54c2c, type: 3}
+    sentence:
+      portuguese: "<color=purple>Of course not</color> (Claro que n\xE3o ) recruta,
+        muito obrigado pela sua ajuda."
+  - actorName: Recruta Martins
+    profile: {fileID: 21300000, guid: 0f02e02f477b5c14283d5abe1939923a, type: 3}
+    sentence:
+      portuguese: <color=purple>Goodbye</color> (Adeus), boa sorte!

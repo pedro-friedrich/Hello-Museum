@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 0c8bc4514ff34473da87290f78cd5101
+timeCreated: 1489391739
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Turret_10_BackBody
+    100004: Turret_10_BackTurretBody
+    100006: Turret_10_BackTurretBodyLeftDoor
+    100008: Turret_10_BackTurretBodyRightDoor
+    100010: Turret_10_FrontBody
+    100012: Turret_10_FrontTurretBody
+    100014: Turret_10_FrontTurretBodyLeftDoor
+    100016: Turret_10_FrontTurretBodyRightDoor
+    100018: Turret_10_Panel
+    100020: Turret_10_TurretBody
+    100022: Turret_10_TurretMainGun
+    400000: //RootNode
+    400002: Turret_10_BackBody
+    400004: Turret_10_BackTurretBody
+    400006: Turret_10_BackTurretBodyLeftDoor
+    400008: Turret_10_BackTurretBodyRightDoor
+    400010: Turret_10_FrontBody
+    400012: Turret_10_FrontTurretBody
+    400014: Turret_10_FrontTurretBodyLeftDoor
+    400016: Turret_10_FrontTurretBodyRightDoor
+    400018: Turret_10_Panel
+    400020: Turret_10_TurretBody
+    400022: Turret_10_TurretMainGun
+    2300000: Turret_10_BackBody
+    2300002: Turret_10_BackTurretBodyLeftDoor
+    2300004: Turret_10_BackTurretBodyRightDoor
+    2300006: Turret_10_FrontBody
+    2300008: Turret_10_FrontTurretBodyLeftDoor
+    2300010: Turret_10_FrontTurretBodyRightDoor
+    2300012: Turret_10_Panel
+    2300014: Turret_10_TurretBody
+    2300016: Turret_10_TurretMainGun
+    3300000: Turret_10_BackBody
+    3300002: Turret_10_BackTurretBodyLeftDoor
+    3300004: Turret_10_BackTurretBodyRightDoor
+    3300006: Turret_10_FrontBody
+    3300008: Turret_10_FrontTurretBodyLeftDoor
+    3300010: Turret_10_FrontTurretBodyRightDoor
+    3300012: Turret_10_Panel
+    3300014: Turret_10_TurretBody
+    3300016: Turret_10_TurretMainGun
+    4300000: Turret_10_Panel
+    4300002: Turret_10_FrontTurretBodyLeftDoor
+    4300004: Turret_10_FrontBody
+    4300006: Turret_10_FrontTurretBodyRightDoor
+    4300008: Turret_10_BackBody
+    4300010: Turret_10_BackTurretBodyRightDoor
+    4300012: Turret_10_BackTurretBodyLeftDoor
+    4300014: Turret_10_TurretBody
+    4300016: Turret_10_TurretMainGun
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/CustomPart/Turrets/Turret_10.fbx
+  uploadId: 250008

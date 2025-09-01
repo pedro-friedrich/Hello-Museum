@@ -1,0 +1,24 @@
+{
+    "entries": [
+        {
+            "key": "playerName",
+            "value": "Pedro"
+        },
+        {
+            "key": "playerPosition",
+            "value": "(114.90, 1.80, 2.30)"
+        },
+        {
+            "key": "flashLight",
+            "value": "True"
+        },
+        {
+            "key": "fuses",
+            "value": "0"
+        },
+        {
+            "key": "scene",
+            "value": "Game"
+        }
+    ]
+}

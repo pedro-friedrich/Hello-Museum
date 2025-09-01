@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: f0e741925ab844f47a8b83c52890e184
+timeCreated: 1489390720
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HoverCraft_Door
+    100004: HoverCraft_LeftPropeller
+    100006: HoverCraft_LeftWIng
+    100008: HoverCraft_LeftWingBody
+    100010: HoverCraft_LowerBody
+    100012: HoverCraft_RightPropeller
+    100014: HoverCraft_RightWing
+    100016: HoverCraft_RightWingBody
+    100018: HoverCraft_UpperBody
+    100020: HoverCraft_Wings
+    400000: //RootNode
+    400002: HoverCraft_Door
+    400004: HoverCraft_LeftPropeller
+    400006: HoverCraft_LeftWIng
+    400008: HoverCraft_LeftWingBody
+    400010: HoverCraft_LowerBody
+    400012: HoverCraft_RightPropeller
+    400014: HoverCraft_RightWing
+    400016: HoverCraft_RightWingBody
+    400018: HoverCraft_UpperBody
+    400020: HoverCraft_Wings
+    2300000: HoverCraft_Door
+    2300002: HoverCraft_LeftPropeller
+    2300004: HoverCraft_LeftWingBody
+    2300006: HoverCraft_LowerBody
+    2300008: HoverCraft_RightPropeller
+    2300010: HoverCraft_RightWingBody
+    2300012: HoverCraft_UpperBody
+    3300000: HoverCraft_Door
+    3300002: HoverCraft_LeftPropeller
+    3300004: HoverCraft_LeftWingBody
+    3300006: HoverCraft_LowerBody
+    3300008: HoverCraft_RightPropeller
+    3300010: HoverCraft_RightWingBody
+    3300012: HoverCraft_UpperBody
+    4300000: HoverCraft_LowerBody
+    4300002: HoverCraft_Door
+    4300004: HoverCraft_UpperBody
+    4300006: HoverCraft_LeftPropeller
+    4300008: HoverCraft_LeftWingBody
+    4300010: HoverCraft_RightPropeller
+    4300012: HoverCraft_RightWingBody
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/HoverCraft/HoverCraft.fbx
+  uploadId: 250008

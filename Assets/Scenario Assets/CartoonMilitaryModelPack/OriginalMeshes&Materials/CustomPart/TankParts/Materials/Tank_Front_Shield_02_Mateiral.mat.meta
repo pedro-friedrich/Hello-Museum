@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a79a8c2e054f14efba9ccc72d33186e4
+timeCreated: 1486847231
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/CustomPart/TankParts/Materials/Tank_Front_Shield_02_Mateiral.mat
+  uploadId: 250008

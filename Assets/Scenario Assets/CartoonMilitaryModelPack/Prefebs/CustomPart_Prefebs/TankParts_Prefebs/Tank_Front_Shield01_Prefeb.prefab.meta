@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8d74cc27f4554c0b97f368a18e3b190
+timeCreated: 1489481954
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/Prefebs/CustomPart_Prefebs/TankParts_Prefebs/Tank_Front_Shield01_Prefeb.prefab
+  uploadId: 250008

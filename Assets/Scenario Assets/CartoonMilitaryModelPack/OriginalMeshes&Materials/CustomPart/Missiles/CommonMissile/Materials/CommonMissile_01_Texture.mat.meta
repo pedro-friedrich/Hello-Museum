@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 997dfd73e0e2d48ea8354871e7e47ba3
+timeCreated: 1486848660
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/CustomPart/Missiles/CommonMissile/Materials/CommonMissile_01_Texture.mat
+  uploadId: 250008

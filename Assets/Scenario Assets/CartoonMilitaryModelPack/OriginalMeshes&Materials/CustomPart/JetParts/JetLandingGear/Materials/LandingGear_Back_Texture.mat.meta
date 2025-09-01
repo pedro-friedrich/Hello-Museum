@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c23f495db75c40949a64baf2ae71379
+timeCreated: 1486845928
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/CustomPart/JetParts/JetLandingGear/Materials/LandingGear_Back_Texture.mat
+  uploadId: 250008

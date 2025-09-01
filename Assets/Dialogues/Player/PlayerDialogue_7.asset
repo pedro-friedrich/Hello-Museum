@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e453bef00ae50c6479761df934291299, type: 3}
+  m_Name: PlayerDialogue_7
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  state: 9
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Jogador
+    profile: {fileID: 21300000, guid: b1b6712a82eedaf4182a0ef7adf54c2c, type: 3}
+    sentence:
+      portuguese: "\xD3timo, s\xF3 faltam mais dois. <color=purple>Do you know where</color>
+        (Voc\xEA sabe onde) eu posso encotrar os outros?"
+  - actorName: Piloto Lima
+    profile: {fileID: 21300000, guid: 5903935af47d3f94c9dc462fdaf84570, type: 3}
+    sentence:
+      portuguese: "Tenho a localiza\xE7\xE3o de um deles anotado nesse papel, mas
+        ta em algm tipo de c\xF3digo."
+  - actorName: Piloto Lima
+    profile: {fileID: 21300000, guid: 5903935af47d3f94c9dc462fdaf84570, type: 3}
+    sentence:
+      portuguese: "O tenente Souza pode te ajudar com isso, ele fica na sala de r\xE1dio
+        aqui do lado."

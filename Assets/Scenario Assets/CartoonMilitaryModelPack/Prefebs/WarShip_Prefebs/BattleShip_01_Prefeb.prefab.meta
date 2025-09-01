@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 263b05cd98ea4e14596f85c8a811508c
+timeCreated: 1528339280
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/Prefebs/WarShip_Prefebs/BattleShip_01_Prefeb.prefab
+  uploadId: 250008

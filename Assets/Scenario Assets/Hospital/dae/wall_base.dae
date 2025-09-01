@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 4.1.1 commit date:2024-04-15, commit time:15:11, hash:e1743a0317bc</authoring_tool>
+    </contributor>
+    <created>2024-07-09T14:34:48</created>
+    <modified>2024-07-09T14:34:48</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="Material-effect">
+      <profile_COMMON>
+        <newparam sid="hospital_gradient_uv_png-surface">
+          <surface type="2D">
+            <init_from>hospital_gradient_uv_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="hospital_gradient_uv_png-sampler">
+          <sampler2D>
+            <source>hospital_gradient_uv_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="hospital_gradient_uv_png-sampler" texcoord="UVMap"/>
+            </diffuse>
+            <reflectivity>
+              <float sid="specular">1</float>
+            </reflectivity>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images>
+    <image id="hospital_gradient_uv_png" name="hospital_gradient_uv_png">
+      <init_from>hospital_gradient_uv.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="Material-material" name="Material">
+      <instance_effect url="#Material-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="wall_base_mesh-mesh" name="wall_base_mesh">
+      <mesh>
+        <source id="wall_base_mesh-mesh-positions">
+          <float_array id="wall_base_mesh-mesh-positions-array" count="24">-0.9999999 0 -0.1817067 1 6.67576e-7 -0.1817067 1 6.67576e-7 0 -0.9999999 0 0 1 0.314007 -0.1817067 -1 0.3140063 0 -1 0.3140063 -0.1817067 1 0.314007 0</float_array>
+          <technique_common>
+            <accessor source="#wall_base_mesh-mesh-positions-array" count="8" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="wall_base_mesh-mesh-normals">
+          <float_array id="wall_base_mesh-mesh-normals-array" count="36">-1 -3.7964e-7 0 1 3.7964e-7 0 0 0 1 3.69553e-7 -1 0 -3.57628e-7 1 0 0 0 -1 -1 -3.7964e-7 0 1 3.7964e-7 0 0 0 1 3.69553e-7 -1 0 -3.57628e-7 1 0 0 0 -1</float_array>
+          <technique_common>
+            <accessor source="#wall_base_mesh-mesh-normals-array" count="12" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="wall_base_mesh-mesh-map-0">
+          <float_array id="wall_base_mesh-mesh-map-0-array" count="72">0.4823538 0.9792202 0.4489626 0.972231 0.4823538 0.972231 0.4506788 0.9794521 0.3991313 0.9746471 0.4506788 0.9750631 0.4976348 0.9909125 0.4506788 0.9750631 0.3795371 0.9909125 0.4556424 0.9912059 0.3999407 0.9835888 0.4556424 0.9835888 0.4976348 0.9909125 0.3795371 0.9746216 0.4976348 0.9746216 0.4856547 0.7856479 0.3870987 0.7698028 0.4899967 0.7698029 0.4823538 0.9792202 0.4489626 0.9792202 0.4489626 0.972231 0.4506788 0.9794521 0.3991313 0.990938 0.3991313 0.9746471 0.4976348 0.9909125 0.4556424 0.9835888 0.4506788 0.9750631 0.4556424 0.9912059 0.3999407 0.9912059 0.3999407 0.9835888 0.4976348 0.9909125 0.3795371 0.9909125 0.3795371 0.9746216 0.4856547 0.7856479 0.3963983 0.7856479 0.3870987 0.7698028</float_array>
+          <technique_common>
+            <accessor source="#wall_base_mesh-mesh-map-0-array" count="36" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="wall_base_mesh-mesh-vertices">
+          <input semantic="POSITION" source="#wall_base_mesh-mesh-positions"/>
+        </vertices>
+        <triangles material="Material-material" count="12">
+          <input semantic="VERTEX" source="#wall_base_mesh-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#wall_base_mesh-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#wall_base_mesh-mesh-map-0" offset="2" set="0"/>
+          <p>6 0 0 3 0 1 5 0 2 1 1 3 7 1 4 2 1 5 5 2 6 2 2 7 7 2 8 0 3 9 2 3 10 3 3 11 5 4 12 4 4 13 6 4 14 1 5 15 6 5 16 4 5 17 6 6 18 0 6 19 3 6 20 1 7 21 4 7 22 7 7 23 5 8 24 3 8 25 2 8 26 0 9 27 1 9 28 2 9 29 5 10 30 7 10 31 4 10 32 1 11 33 0 11 34 6 11 35</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="wall_base" name="wall_base" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#wall_base_mesh-mesh" name="wall_base">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Material-material" target="#Material-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d29ee1eff3acc48f2a2a77a7ab6ee788
+timeCreated: 1489481861
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/Prefebs/CustomPart_Prefebs/Missiles_Prefebs/ICBM_Prefeb.prefab
+  uploadId: 250008

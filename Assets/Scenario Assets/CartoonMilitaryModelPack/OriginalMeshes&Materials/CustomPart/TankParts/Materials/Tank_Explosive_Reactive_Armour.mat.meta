@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 385b84a19028445f481d42135de661d1
+timeCreated: 1486847231
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70946
+  packageName: Cartoon Military Model Pack
+  packageVersion: 5.2
+  assetPath: Assets/CartoonMilitaryModelPack/OriginalMeshes&Materials/CustomPart/TankParts/Materials/Tank_Explosive_Reactive_Armour.mat
+  uploadId: 250008
